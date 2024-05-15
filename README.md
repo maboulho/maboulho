@@ -9,8 +9,6 @@ Software Engineering  with expertise in building cutting-edge web applications. 
 * 🌍  I'm based in Morrocco , Ben Guerrir
 * ✉️  You can contact me at [mohaboulhoda@gmail.com](mailto:mohaboulhoda@gmail.com)
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/maboulho" alt="maboulho's 42 stats" /></a>
-
 
 ### Skills
 
@@ -32,7 +30,7 @@ Software Engineering  with expertise in building cutting-edge web applications. 
 
 ### Socials
 
-<p align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maboulho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"><a href="https://www.linkedin.com/in/maboulho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
